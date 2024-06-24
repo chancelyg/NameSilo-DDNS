@@ -1,0 +1,7 @@
+.vscode
+go-tools-api
+dist/
+.goreleaser.yml
+*.log
+conf/app.conf
+images/
